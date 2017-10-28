@@ -44,9 +44,11 @@
     src='https://c4.patreon.com/toolbox/patreon_logo.png' width='24px'>&emsp;Support us on Patreon</a>
   </div>
 </template>
-<script>export default {
-  name: 'social'
-} </script>
+<script>export default {name: 'social'
+}
+
+</script>
+
 <style>
   .social {
     font-size: 20pt;
