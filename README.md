@@ -1,10 +1,10 @@
-# NuePress
+# Static-ATN
 
 [Nuxt.js](https://github.com/nuxt/nuxt.js) + [WordPress REST API](https://developer.wordpress.org/rest-api/)
 
 ## Demo
 
-[https://nuepress.kmr.io](https://nuepress.kmr.io/)
+[https://static.androidtv.news](https://static.androidtv.news)
 
 ## Build Setup
 
