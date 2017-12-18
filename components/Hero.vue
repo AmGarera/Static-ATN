@@ -59,7 +59,9 @@ export default {
     }
 
     .meta {
-      transform: translateX(4px)
+      transform: translateX(4px);
+      background-color: #7f828b;
+
     }
   }
 
